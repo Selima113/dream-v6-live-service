@@ -1,0 +1,1 @@
+https://magical-tiramisu-aa7596.netlify.app/.netlify/functions/verify
