@@ -3,9 +3,9 @@
     "version": "6.1.0",
     "last_updated": "2026-02-03",
     "uchimura_settings": {
-        "maxDisplayBrightness_mult": 1.0,
+        "maxDisplayBrightness_mult": 4.0,
         "contrast_mult": 4.0,
-        "linearSectionStart_mult": 1.0,
+        "linearSectionStart_mult": 4.0,
         "linearSectionLength_val": -0.25,
         "black_mult": 1.0,
         "pedestal_val": -0.015,
