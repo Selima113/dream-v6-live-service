@@ -1,0 +1,16 @@
+{
+    "trending": [
+        {
+            "id": "las_vegas_night",
+            "name": "F1 Las Vegas (Night)",
+            "author": "Dream Creator",
+            "description": "Optimized for neon lights and high-contrast night racing."
+        },
+        {
+            "id": "nurburgring_fog",
+            "name": "Eifel Morning (Foggy)",
+            "author": "Dream Creator",
+            "description": "Soft morning light with realistic fog penetration."
+        }
+    ]
+}

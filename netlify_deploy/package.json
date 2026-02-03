@@ -1,0 +1,16 @@
+{
+  "name": "dream-v6-auth-server",
+  "version": "1.0.0",
+  "description": "Secure license verification for Dream V6 PP Filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify",
+    "auth",
+    "license"
+  ],
+  "author": "DreamAC1",
+  "license": "ISC"
+}
